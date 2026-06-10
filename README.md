@@ -1,4 +1,4 @@
-# data-cleaning-layoffs-project
+# Data-Cleaning-Layoffs-Project
 
 ## Overview
 This project focuses on cleaning and preparing a real-world layoffs dataset using SQL. The goal was to transform raw data into a structured and analysis-ready format.
